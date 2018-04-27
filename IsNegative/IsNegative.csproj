@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
     <ApplicationIcon>icon.ico</ApplicationIcon>
     <Authors>github.com/kwiniarski97</Authors>
     <Description>Ever wondered if the number is a negative? Here comes the answer
@@ -14,7 +14,8 @@ Usage: "IsNegative.Check(number);"</Description>
     <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/kwiniarski97/IsNegative</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/kwiniarski97/IsNegative/master/IsNegative/icon.ico</PackageIconUrl>
-    <PackageTags>isnegative,</PackageTags>
+    <PackageTags>isnegative, is negative, is-negative, is, negative,</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>

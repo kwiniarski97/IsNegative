@@ -1,6 +1,6 @@
 ﻿namespace IsNegative
 {
-    public static class IsNegative
+    public class IsNegative
     {
         public static bool Check(double number)
         {
