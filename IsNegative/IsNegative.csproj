@@ -15,7 +15,7 @@ Usage: "IsNegative.Check(number);"</Description>
     <PackageProjectUrl>https://github.com/kwiniarski97/IsNegative</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/kwiniarski97/IsNegative/master/IsNegative/icon.ico</PackageIconUrl>
     <PackageTags>isnegative, is negative, is-negative, is, negative,</PackageTags>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>
