@@ -6,5 +6,5 @@ Usage:
 ```C# 
 using static IsNegative;
 
-IsNegative.Check(number);
+IsNegative.Check(number); // returns true if number is negative
 ```
