@@ -4,7 +4,7 @@ Inspired by great JS library. I created one for .NET Core.
 
 Usage:
 ```C# 
-using IsNegative = IsNegative.IsNegative;
+using static IsNegative;
 
 IsNegative.Check(number);
 ```
