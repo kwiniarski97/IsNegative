@@ -7,10 +7,14 @@
     <Description>Ever wondered if the number is a negative? Here comes the answer
 Inspired by great JS library. I created one for .NET Core.
 Usage: "IsNegative.Check(number);"</Description>
-    <Copyright>GPL</Copyright>
+    <Copyright>GNU GPL v3</Copyright>
     <NeutralLanguage></NeutralLanguage>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/kwiniarski97/IsNegative</RepositoryUrl>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kwiniarski97/IsNegative</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/kwiniarski97/IsNegative/master/IsNegative/icon.ico</PackageIconUrl>
+    <PackageTags>isnegative,</PackageTags>
   </PropertyGroup>
 
 </Project>
